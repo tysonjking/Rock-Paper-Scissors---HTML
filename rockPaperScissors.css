@@ -1,0 +1,39 @@
+.title {
+    background-color: seagreen;
+    border-radius: 100px;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    font-weight: bolder;
+    display: inline-block;
+    margin: 20px;
+    padding: 15px;
+    text-align: center;
+    text-transform: uppercase;
+    height: 25px;
+    width: auto;
+
+}
+
+html {
+    background-color: whitesmoke;
+}
+
+.th {
+    border: 2px solid grey;
+    background-color: honeydew;
+    text-align: center;
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    
+
+}
+
+th {
+    text-align: center;
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+
+}

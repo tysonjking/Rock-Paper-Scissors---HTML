@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html class="html">
+    <head>
+        <script src="rockPaperScissors.js"></script>
+        <title>Rock Paper Scissors</title>
+            <link rel="stylesheet" type="text/css" href="rockPaperScissors.css">
+</head>
+<body>
+    <header class= "header">
+        <h1 class="title">Rock Paper Scissors Game</h1>
+    </header>
+    <div class="score">
+        <table>
+            <theader>
+                <th class="th">YOU</th>
+                <th class="th">COMPUTER</th>
+                <th class="th">RESULTS</th>
+            </theader>
+            <tr>
+                <th><script> document.write(userChoice); </script></th>
+                <th><script> document.write(computerChoice); </script></th>
+                <th><script> document.write(determineWinner(userChoice, computerChoice)); </script></th>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>
