@@ -12,12 +12,15 @@
     text-transform: uppercase;
     height: 25px;
     width: auto;
-
 }
 
 html {
     background-color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    Margin: 0;
 }
+
 
 .th {
     border: 2px solid grey;
@@ -26,8 +29,6 @@ html {
     display: inline-block;
     margin: 10px;
     padding: 10px;
-    
-
 }
 
 th {
@@ -35,5 +36,5 @@ th {
     display: inline-block;
     margin: 10px;
     padding: 10px;
-
 }
+
