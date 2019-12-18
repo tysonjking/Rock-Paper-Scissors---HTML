@@ -1,13 +1,9 @@
 .title {
     background-color: seagreen;
-    border-radius: 100px;
     color: black;
     font-family: 'Courier New', Courier, monospace;
     font-size: larger;
     font-weight: bolder;
-    display: inline-block;
-    margin: 20px;
-    padding: 15px;
     text-align: center;
     text-transform: uppercase;
     height: 25px;
@@ -17,24 +13,15 @@
 html {
     background-color: whitesmoke;
     font-family: 'Courier New', Courier, monospace;
-    font-size: larger;
-    Margin: 0;
 }
-
 
 .th {
     border: 2px solid grey;
     background-color: honeydew;
-    text-align: center;
-    display: inline-block;
-    margin: 10px;
+    margin: 50px;
     padding: 10px;
+    width: 350px;
 }
 
-th {
-    text-align: center;
-    display: inline-block;
-    margin: 10px;
-    padding: 10px;
-}
+
 
